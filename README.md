@@ -5,12 +5,12 @@
 <p align="center">
 	<b><i>Reading a line on a fd is way too tedious</i></b><br>
 </p>
-<img width="421" alt="Screen Shot 2022-11-02 at 3 24 27 AM" src="https://user-images.githubusercontent.com/96823772/199381026-50cbd1df-8c6b-4f7b-b96f-fcde06b92371.png">
 <p align="center">
 	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/jdecorte-be/42-Get-next-line?color=lightblue" />
 	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/jdecorte-be/42-Get-next-line?color=critical" />
 	<img alt="Code language count" src="https://img.shields.io/github/languages/count/jdecorte-be/42-Get-next-line?color=yellow" />
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jdecorte-be/42-Get-next-line?color=blue" /></p>
+<img width="421" alt="Screen Shot 2022-11-02 at 3 24 27 AM" src="https://user-images.githubusercontent.com/96823772/199381547-911f8656-c19e-47a6-8169-988ce43b2def.png">
 
 <h3 align="center">
 	<a href="#%EF%B8%8F-about">About</a>
