@@ -5,7 +5,7 @@
 <p align="center">
 	<b><i>Reading a line on a fd is way too tedious</i></b><br>
 </p>
-<img width="2095" alt="Screen Shot 2022-11-02 at 3 23 14 AM" src="https://user-images.githubusercontent.com/96823772/199380592-9e8b3353-1d8b-4974-9b92-799278f74141.png">
+<img width="421" alt="Screen Shot 2022-11-02 at 3 24 27 AM" src="https://user-images.githubusercontent.com/96823772/199380763-54995609-a30d-4a8f-90ea-9ecb4bb260ae.png">
 
 <p align="center">
 	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/jdecorte-be/42-Get-next-line?color=lightblue" />
