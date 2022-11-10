@@ -10,7 +10,7 @@
 	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/jdecorte-be/42-Get-next-line?color=critical" />
 	<img alt="Code language count" src="https://img.shields.io/github/languages/count/jdecorte-be/42-Get-next-line?color=yellow" />
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jdecorte-be/42-Get-next-line?color=blue" /></p>
-<img width="617" alt="Screen Shot 2022-11-02 at 3 33 10 AM" src="https://user-images.githubusercontent.com/96823772/201002021-64482a97-3ea3-4c8b-b968-51d4aa22f8cf.png">
+<img width="607" alt="Screen Shot 2022-11-10 at 5 37 38 AM" src="https://user-images.githubusercontent.com/96823772/201002077-3502f2f7-579d-4e71-ab9f-121447a40083.png">
 <h3 align="center">
 	<a href="#%EF%B8%8F-about">About</a>
 	<span> · </span>
